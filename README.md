@@ -2,7 +2,7 @@
 
 This is a Spring Web POS System.
 ###
-[![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/292bb6f2-f03d-4b6f-8549-f0fc6e4626cf.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/292bb6f2-f03d-4b6f-8549-f0fc6e4626cf)
+[![wakatime](https://wakatime.com/badge/github/NimeshPiyumantha/Spring-POS.svg)](https://wakatime.com/badge/github/NimeshPiyumantha/Spring-POS)
 ### - Back End
 * Spring
 * Maven
