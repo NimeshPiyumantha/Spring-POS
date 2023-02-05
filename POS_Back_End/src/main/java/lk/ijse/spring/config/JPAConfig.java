@@ -1,5 +1,6 @@
 package lk.ijse.spring.config;
 
+import lk.ijse.spring.repo.CustomerRepo;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -22,7 +23,7 @@ import javax.sql.DataSource;
 
 @Configuration
 @EnableTransactionManagement //AOP Usage
-@EnableJpaRepositories(basePackageClasses = {})
+@EnableJpaRepositories(basePackageClasses = {CustomerRepo.class})
 public class JPAConfig {
 
     @Bean
@@ -50,6 +51,7 @@ public class JPAConfig {
         va.setDatabasePlatform("org.hibernate.dialect.MySQL8Dialect");
         va.setDatabase(Database.MYSQL);
         va.setGenerateDdl(true);
+
         va.setShowSql(true);
         return va;
     }
