@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spring_Web-POS.iml" filepath="$PROJECT_DIR$/Spring_Web-POS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POS_Front_End.iml" filepath="$PROJECT_DIR$/POS_Front_End.iml" />
     </modules>
   </component>
 </project>
