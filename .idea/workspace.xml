@@ -5,91 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7a8b77b-ac50-4a5e-a7de-7e73355f4222" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/ui/Screenshot (213).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/ui/Screenshot (214).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/ui/Screenshot (215).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/ui/Screenshot (216).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/images/ui/Screenshot (217).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/bootstrap-icons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/jQuery/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/controllers/CustomerController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/controllers/DashboardController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/controllers/ItemController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/controllers/OrderViewsController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/controllers/PurchaseOrderController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/pages/customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/pages/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/pages/orderDetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/pages/orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/util/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Front_End/util/validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +55,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Spring_Web-POS\POS_Front_End" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -147,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675561568001</updated>
-      <workItem from="1675561569528" duration="1316000" />
+      <workItem from="1675561569528" duration="1419000" />
     </task>
     <servers />
   </component>
