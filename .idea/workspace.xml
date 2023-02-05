@@ -9,16 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a8b77b-ac50-4a5e-a7de-7e73355f4222" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/WebAppInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/JPAConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/WebAppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/WebRootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/config/WebRootConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/POS_Back_End/src/main/java/lk/ijse/spring/controller/CustomerController.java" afterDir="false" />
-    </list>
+    <list default="true" id="c7a8b77b-ac50-4a5e-a7de-7e73355f4222" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675561568001</updated>
       <workItem from="1675561569528" duration="8774000" />
-      <workItem from="1675593477599" duration="1049000" />
+      <workItem from="1675593477599" duration="1446000" />
     </task>
     <servers />
   </component>
