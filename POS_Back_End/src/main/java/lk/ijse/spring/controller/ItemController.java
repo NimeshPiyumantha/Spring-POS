@@ -1,5 +1,6 @@
 package lk.ijse.spring.controller;
 
+import lk.ijse.spring.dto.CustomDTO;
 import lk.ijse.spring.dto.ItemDTO;
 import lk.ijse.spring.service.ItemService;
 import lk.ijse.spring.util.ResponseUtil;
@@ -55,7 +56,13 @@ public class ItemController {
 
     @ResponseStatus(HttpStatus.CREATED)
     @GetMapping(path = "/ItemIdGenerate")
-    public @ResponseBody String ItemIdGenerate() {
+    public @ResponseBody CustomDTO ItemIdGenerate() {
         return service.itemIdGenerate();
+    }
+
+    @ResponseStatus(HttpStatus.CREATED)
+    @GetMapping(path = "/itemCount")
+    public @ResponseBody CustomDTO getSumItem() {
+        return service.getSumItem();
     }
 }

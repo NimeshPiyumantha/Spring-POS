@@ -1,5 +1,6 @@
 package lk.ijse.spring.service;
 
+import lk.ijse.spring.dto.CustomDTO;
 import lk.ijse.spring.dto.CustomerDTO;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -23,5 +24,8 @@ public interface CustomerService {
     ArrayList<CustomerDTO> loadAllCustomer();
 
     @ResponseBody
-    String customerIdGenerate();
+    CustomDTO customerIdGenerate();
+
+    @ResponseBody
+    CustomDTO getSumCustomer();
 }
