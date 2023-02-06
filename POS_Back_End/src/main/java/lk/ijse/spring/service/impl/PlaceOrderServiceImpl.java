@@ -54,31 +54,23 @@ public class PlaceOrderServiceImpl implements PlaceOrderService {
 
     @Override
     public ArrayList<OrdersDTO> LoadOrders() {
-        ArrayList<OrdersDTO> allList = mapper.map(repo.findAll(), new TypeToken<ArrayList<OrdersDTO>>() {
+        return mapper.map(repo.findAll(), new TypeToken<ArrayList<OrdersDTO>>() {
         }.getType());
-        System.out.println(allList);
-        return allList;
     }
 
     @Override
     public ArrayList<OrderDetailsDTO> LoadOrderDetails() {
-        ArrayList<OrderDetailsDTO> allList2 = mapper.map(orRepo.findAll(), new TypeToken<ArrayList<OrderDetailsDTO>>() {
+        return mapper.map(orRepo.findAll(), new TypeToken<ArrayList<OrderDetailsDTO>>() {
         }.getType());
-        System.out.println(allList2);
-        return allList2;
     }
 
     @Override
     public CustomDTO OrderIdGenerate() {
-        CustomDTO customDTO = new CustomDTO(repo.getLastIndex());
-        System.out.println(customDTO);
-        return customDTO;
+        return new CustomDTO(repo.getLastIndex());
     }
 
     @Override
     public CustomDTO getSumOrders() {
-        CustomDTO customDTO = new CustomDTO(repo.getSumOrders());
-        System.out.println(customDTO);
-        return customDTO;
+        return new CustomDTO(repo.getSumOrders());
     }
 }
